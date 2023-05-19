@@ -1,0 +1,34 @@
+.navwrapper {
+    display: flex;
+    background-color: tomato;
+}
+
+.nav {
+    display: flex;
+    list-style-type: none;
+}
+
+li a{
+    text-decoration: none;
+}
+
+.jumbotron {
+    background-color: aqua;
+}
+
+.about {
+    background-color: orangered;
+}
+
+.contact {
+    background-color: darkslateblue;
+}
+.footer {
+    background-color: cadetblue;
+}
+
+.kotak {
+    background-color: red;
+    width: 100px;
+    height: 30px;
+}
